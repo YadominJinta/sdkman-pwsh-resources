@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Java",
+        "description": "Java Platform, Standard Edition (or Java SE) is a widely used platform for development and deployment of portable code for desktop and server environments. Java SE uses the object-oriented Java programming language. It is part of the Java software-platform family. Java SE defines a wide range of general-purpose APIs – such as Java APIs for the Java Class Library – and also includes the Java Language Specification and the Java Virtual Machine Specification.",
+        "default": "11.0.8.hs-adpt",
+        "key": "java"
+    },
+    {
+        "name": "Kotlin",
+        "description": "Kotlin is a statically-typed programming language that runs on the Java Virtual Machine and can also be compiled to JavaScript source code.",
+        "default": "1.4.10",
+        "key": "kotlin"
+    },
+    {
+        "name": "Gradle",
+        "description": "Gradle is a build automation tool that builds upon the concepts of Apache Ant and Apache Maven and introduces a Groovy-based domain-specific language (DSL) instead of the more traditional XML form of declaring the project configuration. Gradle uses a directed acyclic graph (DAG) to determine the order in which tasks can be run.",
+        "default": "6.6.1",
+        "key": "gradle"
+    },
+    {
+        "name": "Scala",
+        "description": "Scala is a programming language for general software applications. Scala has full support for functional programming and a very strong static type system. This allows programs written in Scala to be very concise and thus smaller in size than other general-purpose programming languages. Scala source code is intended to be compiled to Java bytecode, so that the resulting executable code runs on a Java virtual machine. Java libraries may be used directly in Scala code and vice versa. Scala is object-oriented, and uses a curly-brace syntax. Scala has many features of functional programming languages, including currying, type inference, immutability, lazy evaluation, and pattern matching. It also has an advanced type system supporting algebraic data types, covariance and contravariance, higher-order types, and anonymous types. Other features of Scala include operator overloading, optional parameters, named parameters, raw strings, and no checked exceptions.",
+        "default": "2.13.3",
+        "key": "scale"
+    }
+]
